@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", backgroundColor }}>
       <div>
-        <h1>Pierre-Papier-Ciseaux</h1>
+        <h1>SHIFUMI</h1>
         <div>
           <button onClick={() => handleClick("pierre")}>Pierre</button>
           <button onClick={() => handleClick("papier")}>Papier</button>
